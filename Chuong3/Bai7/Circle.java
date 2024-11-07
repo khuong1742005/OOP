@@ -1,4 +1,4 @@
-package Bai7;
+package Chuong3.Bai7;
 
 public class Circle implements GeometriObject{
     protected double radius = 1.0;

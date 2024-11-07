@@ -1,4 +1,4 @@
-package Bai7;
+package Chuong3.Bai7;
 
 public class Test {
     public static void main(String[] args) {

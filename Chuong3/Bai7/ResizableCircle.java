@@ -1,4 +1,4 @@
-package Bai7;
+package Chuong3.Bai7;
 
 public class ResizableCircle extends Circle implements Resizable {
     public ResizableCircle(double radius)

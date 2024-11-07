@@ -1,4 +1,4 @@
-package Bai8;
+package Chuong3.Bai8;
 
 public class Test {
     public static void main(String[] args)

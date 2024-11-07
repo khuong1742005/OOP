@@ -1,4 +1,4 @@
-package Bai8;
+package Chuong3.Bai8;
 
 public abstract class Shape {
     private String color;
